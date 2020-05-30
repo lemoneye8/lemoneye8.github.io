@@ -1,0 +1,61 @@
+.searchbar{
+    width: 80vh !important;
+}
+.centered{
+position: absolute;
+  top: 50%;
+  left: 50%;
+}
+.bg-light{
+background-color: #22a96e !important;
+}
+.option_style{
+    color: rgb(0, 0, 0) !important;
+    background: #000000 !important;
+    outline: none;
+}
+.option_style:hover{
+    background: #000000 !important;
+}
+.logod * {
+	margin: -2px;
+    padding: 0px;
+color:white;
+}
+.logod{
+	margin: -6px;
+    padding: -30px;
+}
+.selectpicker.btn-outline-warning{
+    color: white !important;
+}
+.filter-option-inner-inner{
+    color: white !important;
+}
+.option_style.selected{
+    background-color: #000000 !important;
+}
+.button{
+    background-color: rgb(ff , ff, ff) !important;
+}
+.wobbler:focus, .wobbler:hover {
+  animation: wobble 0.5s 1;
+}
+
+@keyframes wobble {
+  20% {
+    transform: rotate(10deg);
+  }
+  40% {
+    transform: rotate(-20deg);
+  }
+   60% {
+    transform: rotate(10deg);
+  }
+   80% {
+    transform: rotate(-20deg);
+  }
+  100% {
+    transform: rotate(0deg);
+  }
+}

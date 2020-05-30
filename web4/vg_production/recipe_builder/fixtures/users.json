@@ -1,0 +1,29 @@
+[   
+    {
+        "model": "recipe_builder.User",
+        "pk": 1,
+        "fields": {
+          "login": "Vitalii",
+          "password": "1111",
+	 "vip":1 
+       }
+    },
+    {
+        "model": "recipe_builder.User",
+        "pk": 2,
+        "fields": {
+          "login": "Andrew",
+          "password": "1111",
+	  "vip":0
+        }
+    },
+    {
+        "model": "recipe_builder.User",
+        "pk": 3,
+        "fields": {
+          "login": "1",
+          "password": "1",
+	  "vip":1
+        }
+    }
+]

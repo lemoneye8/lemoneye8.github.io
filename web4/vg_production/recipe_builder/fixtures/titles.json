@@ -1,0 +1,47 @@
+[
+  {
+    "model": "recipe_builder.Dish",
+    "pk": 1,
+    "fields": {
+      "name": "Phosgene",
+      "title": "Phosgene is the organic chemical compound with the formula COCl2. It is a colorless gas; in low concentrations, its odor resembles freshly cut hay or grass. Phosgene is a valued industrial building block, especially for the production of urethanes and polycarbonate plastics.",
+      "desc": "In the research laboratory phosgene still finds limited use in organic synthesis. A variety of substitutes have been developed, notably trichloromethyl chloroformate ('diphosgene'), a liquid at room temperature, and bis(trichloromethyl) carbonate ('triphosgene'), a crystalline substance. Aside from the above reactions that are widely practiced industrially, phosgene is also used to produce acyl chlorides and carbon dioxide from carboxylic acids However, it is very poisonous and was used as a chemical weapon during World War I where it was responsible for 85,000 deaths. In addition to its industrial production, small amounts occur from the breakdown and the combustion of organochlorine compounds."
+    }
+  },
+  {
+    "model": "recipe_builder.Dish",
+    "pk": 2,
+    "fields": {
+      "name": "Polystyrene",
+      "title": "Polystyrene is a synthetic aromatic hydrocarbon polymer made from the monomer known as styrene. Polystyrene can be solid or foamed. General-purpose polystyrene is clear, hard, and rather brittle. It is an inexpensive resin per unit weight. It is a rather poor barrier to oxygen and water vapour and has a relatively low melting point.",
+      "desc": "As a thermoplastic polymer, polystyrene is in a solid (glassy) state at room temperature but flows if heated above about 100 C, its glass transition temperature. It becomes rigid again when cooled. This temperature behaviour is exploited for extrusion (as in Styrofoam) and also for molding and vacuum forming, since it can be cast into molds with fine detail. Under ASTM standards, polystyrene is regarded as not biodegradable. It is accumulating as a form of litter in the outside environment, particularly along shores and waterways, especially in its foam form, and in the Pacific Ocean."
+    }
+  },
+  {
+    "model": "recipe_builder.Dish",
+    "pk": 3,
+    "fields": {
+      "name": "Monosodium glutamate",
+      "title": "Monosodium glutamate (MSG), also known as sodium glutamate, is the sodium salt of glutamic acid. MSG is found naturally in some foods including tomatoes and cheese. MSG is used in cooking as a flavor enhancer with an umami taste that intensifies the meaty, savory flavor of food, as naturally occurring glutamate does in foods such as stews and meat soups.",
+      "desc": "Pure MSG is reported to not have a highly pleasant taste until it is combined with a savory aroma. The basic sensory function of MSG is attributed to its ability to enhance savory taste-active compounds when added in the proper concentration. The optimum concentration varies by food; in clear soup, the pleasure score rapidly falls with the addition of more than one gram of MSG per 100 mL.The sodium content (in mass percent) of MSG, 12%, is about one-third of that in sodium chloride (39%), due to the greater mass of the glutamate counterion.Although other salts of glutamate have been used in low-salt soups, they are less palatable than MSG.MSG might even promote healthy eating, (food scientist Steve Witherly) hypothesizes, by not only making kale more delicious but also letting you get away with using less salt."
+    }
+  },
+  {
+    "model": "recipe_builder.Dish",
+    "pk": 4,
+    "fields": {
+      "name": "Sodium chloride",
+      "title": "Sodium chloride commonly known as salt (although sea salt also contains other chemical salts), is an ionic compound with the chemical formula NaCl, representing a 1:1 ratio of sodium and chloride ions. With molar masses of 22.99 and 35.45 g/mol respectively, 100 g of NaCl contains 39.34 g Na and 60.66 g Cl. Sodium chloride is the salt most responsible for the salinity of seawater and of the extracellular fluid of many multicellular organisms. In its edible form of table salt, it is commonly used as a condiment and food preservative.",
+      "desc": "Sodium chloride is heavily used, so even relatively minor applications can consume massive quantities. In oil and gas exploration, salt is an important component of drilling fluids in well drilling. It is used to flocculate and increase the density of the drilling fluid to overcome high downwell gas pressures. Whenever a drill hits a salt formation, salt is added to the drilling fluid to saturate the solution in order to minimize the dissolution within the salt stratum. Salt is also used to increase the curing of concrete in cemented casings.In textiles and dyeing, salt is used as a brine rinse to separate organic contaminants, to promote salting out of dyestuff precipitates, and to blend with concentrated dyes to standardize them. One of its main roles is to provide the positive ion charge to promote the absorption of negatively charged ions of dyes. "
+    }
+  },
+  {
+    "model": "recipe_builder.Dish",
+    "pk": 5,
+    "fields": {
+      "name": "Cyclohexanone",
+      "title": "Cyclohexanone is the organic compound with the formula (CH2)5CO. The molecule consists of six-carbon cyclic molecule with a ketone functional group. This colorless oil has an odor reminiscent of that of acetone. Over time, samples of cyclohexanone assume a yellow color.",
+      "desc": "The great majority of cyclohexanone is consumed in the production of precursors to Nylon 6,6 and Nylon 6. About half of the world's supply is converted to adipic acid, one of two precursors for nylon 6,6. For this application, the KA oil (see above) is oxidized with nitric acid. The other half of the cyclohexanone supply is converted to cyclohexanone oxime. In the presence of sulfuric acid catalyst, the oxime rearranges to caprolactam, a precursor to nylon 6"
+    }
+  }
+]
